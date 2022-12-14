@@ -10,9 +10,11 @@ This project uses the King County House Sales dataset, which can be found in  `k
 ### Methods
 
 ![download](https://user-images.githubusercontent.com/113707140/207612428-d2c5c66c-e150-495f-ad8b-efd26f382a86.png)
+
 The visualization above shows that there seems to be a relatively strong linear relationship between square feet of living space and the price of a house.
 
 ![download (2)](https://user-images.githubusercontent.com/113707140/207612710-d1fbcbe6-56e8-4598-8fd6-bcfb46791609.png)
+
 The visualization above shows that when the building grade improves, the house price rise as well. We can see in the boxplot above that the mean house price for a home with a grade of 13 is far above other grades. While the building grade of 3 falls short of minimum building standards based on King County grading system.
 
 ![blob (1)](https://user-images.githubusercontent.com/113707140/207613951-e200528c-db08-4d1e-aaf0-ace4aa6d193c.jpg)
